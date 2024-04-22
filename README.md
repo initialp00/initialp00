@@ -1,5 +1,5 @@
-# 💫 About Me:
-Hi 👋, I'm NISHIL PATEL<br>A passionate Full-stack developer<br>🔭 I’m currently working on something cool!<br>🌱 DevOps | UI/UX Designer<br>🤝 I’m looking to collaborate on web and mobile-based applications.<br>📫 How to reach me nis2910p2000@gmail.com
+# Hi 👋, I'm NISHIL PATEL
+A passionate Full-stack developer<br>🔭 I’m currently working on something cool!<br>🌱 DevOps | UI/UX Designer<br>🤝 I’m looking to collaborate on web and mobile-based applications.<br>📫 How to reach me nis2910p2000@gmail.com
 
 
 # 💻 Tech Stack:
